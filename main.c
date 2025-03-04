@@ -6,6 +6,8 @@
 #include <unistd.h>
 #include "tab.c"
 
+//gcc main.c -o gedrom -w sur WSL
+
 #define CB_RED "\033[91m" 
 #define CB_GREEN "\033[92m"
 #define CB_YELLOW "\033[93m"
